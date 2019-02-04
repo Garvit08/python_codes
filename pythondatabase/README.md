@@ -1,1 +1,1 @@
->>> This are some python scripts which can be used in sql
+>>> These are some python scripts which can be used in sql
